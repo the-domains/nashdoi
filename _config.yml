@@ -1,0 +1,28 @@
+name: Nashdoi
+favicon: null
+layout_spectrum: 0.8501825293060392
+typography_spectrum: 0.7122447621077299
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8218758201692253
+  lightness: 0.49214303283952177
+  saturation: 0.5413849256001413
+  rhythmicContrast: 0.24990362906828523
+purpose: []
